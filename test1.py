@@ -214,3 +214,12 @@ print(my_friends & A_friends)
 f = ['apple', 'banana', 'apple']
 kind = set(f)
 print(kind)
+
+
+x = 10 
+if x < 0:
+    print('negative')
+elif x == 0:
+    print('zero')
+else:
+    print('positive')
